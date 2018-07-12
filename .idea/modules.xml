@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MaveFaceSSM.iml" filepath="$PROJECT_DIR$/MaveFaceSSM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MavenFaceSSM.iml" filepath="$PROJECT_DIR$/MavenFaceSSM.iml" />
     </modules>
   </component>
 </project>

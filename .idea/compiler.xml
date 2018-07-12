@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="MaveFaceSSM" />
+        <module name="MavenFaceSSM" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="MaveFaceSSM" target="1.8" />
+      <module name="MavenFaceSSM" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

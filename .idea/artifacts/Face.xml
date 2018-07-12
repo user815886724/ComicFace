@@ -2,7 +2,7 @@
   <artifact type="exploded-war" name="Face">
     <output-path>$PROJECT_DIR$/out/artifacts/Face</output-path>
     <root id="root">
-      <element id="javaee-facet-resources" facet="MaveFaceSSM/web/Web" />
+      <element id="javaee-facet-resources" facet="MavenFaceSSM/web/Web" />
     </root>
   </artifact>
 </component>
