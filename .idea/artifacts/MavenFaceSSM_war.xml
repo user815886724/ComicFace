@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MavenFaceSSM:war">
+    <output-path>$PROJECT_DIR$/../MavenFaceSSM/target</output-path>
+    <root id="archive" name="Face.war">
+      <element id="artifact" artifact-name="MavenFaceSSM:war exploded" />
+    </root>
+  </artifact>
+</component>
