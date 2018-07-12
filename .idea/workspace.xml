@@ -6,9 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b54ddf1-0dd5-46ca-9571-23fa1f77006b" name="Default" comment="IDEA第一次整合">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MavenFaceSSM/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../MavenFaceSSM/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="9b54ddf1-0dd5-46ca-9571-23fa1f77006b" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/../MavenFaceSSM/out/" />
     <ignored path="$PROJECT_DIR$/../MavenFaceSSM/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -460,7 +458,7 @@
       <workItem from="1531321188339" duration="1318000" />
       <workItem from="1531361193177" duration="5580000" />
       <workItem from="1531377707500" duration="427000" />
-      <workItem from="1531378281821" duration="676000" />
+      <workItem from="1531378281821" duration="684000" />
     </task>
     <task id="LOCAL-00001" summary="IDEA第一次整合">
       <created>1531378374052</created>
@@ -476,11 +474,18 @@
       <option name="project" value="LOCAL" />
       <updated>1531378717336</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="IDEA第一次整合">
+      <created>1531378960217</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1531378960217</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57951000" />
+    <option name="totallyTimeSpent" value="57959000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
